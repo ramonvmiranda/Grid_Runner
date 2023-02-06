@@ -1,0 +1,479 @@
+fileFormatVersion: 2
+guid: c4a771c31fa435e428632822e8105f80
+timeCreated: 1480688307
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: CubeSpriteSheet_0
+    21300002: CubeSpriteSheet_1
+    21300004: CubeSpriteSheet_2
+    21300006: CubeSpriteSheet_3
+    21300008: CubeSpriteSheet_4
+    21300010: CubeSpriteSheet_5
+    21300012: CubeSpriteSheet_6
+    21300014: CubeSpriteSheet_7
+    21300016: CubeSpriteSheet_8
+    21300018: CubeSpriteSheet_9
+    21300020: CubeSpriteSheet_10
+    21300022: CubeSpriteSheet_11
+    21300024: CubeSpriteSheet_12
+    21300026: CubeSpriteSheet_13
+    21300028: CubeSpriteSheet_14
+    21300030: CubeSpriteSheet_15
+    21300032: CubeSpriteSheet_16
+    21300034: CubeSpriteSheet_17
+    21300036: CubeSpriteSheet_18
+    21300038: CubeSpriteSheet_19
+    21300040: CubeSpriteSheet_20
+    21300042: CubeSpriteSheet_21
+    21300044: CubeSpriteSheet_22
+    21300046: CubeSpriteSheet_23
+    21300048: CubeSpriteSheet_24
+    21300050: CubeSpriteSheet_25
+    21300052: CubeSpriteSheet_26
+    21300054: CubeSpriteSheet_27
+    21300056: CubeSpriteSheet_28
+    21300058: CubeSpriteSheet_29
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CubeSpriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 312
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CubeSpriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 312
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CubeSpriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 312
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CubeSpriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 312
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CubeSpriteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 312
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CubeSpriteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 252
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CubeSpriteSheet_6
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 253
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CubeSpriteSheet_7
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 254
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CubeSpriteSheet_8
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 256
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CubeSpriteSheet_9
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 254
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CubeSpriteSheet_10
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 193
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CubeSpriteSheet_11
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 192
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CubeSpriteSheet_12
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 192
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CubeSpriteSheet_13
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 193
+        width: 35
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CubeSpriteSheet_14
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 195
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CubeSpriteSheet_15
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 134
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CubeSpriteSheet_16
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 132
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CubeSpriteSheet_17
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 132
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CubeSpriteSheet_18
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 132
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CubeSpriteSheet_19
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 133
+        width: 35
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CubeSpriteSheet_20
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 75
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CubeSpriteSheet_21
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 75
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CubeSpriteSheet_22
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 74
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CubeSpriteSheet_23
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 73
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CubeSpriteSheet_24
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 72
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CubeSpriteSheet_25
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 12
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CubeSpriteSheet_26
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 12
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CubeSpriteSheet_27
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 12
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CubeSpriteSheet_28
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 12
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CubeSpriteSheet_29
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 12
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
