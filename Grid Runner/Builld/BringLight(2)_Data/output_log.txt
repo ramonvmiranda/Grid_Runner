@@ -6,38 +6,25 @@ Direct3D:
     Vendor:   Intel
     VRAM:     2111 MB
 Begin MonoManager ReloadAssembly
-Platform assembly: Z:\Projetos\_Games\Grid Runner\Builld\BringLight(2)_Data\Managed\UnityEngine.dll (this message is harmless)
-Loading Z:\Projetos\_Games\Grid Runner\Builld\BringLight(2)_Data\Managed\UnityEngine.dll into Unity Child Domain
-Platform assembly: Z:\Projetos\_Games\Grid Runner\Builld\BringLight(2)_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
-Loading Z:\Projetos\_Games\Grid Runner\Builld\BringLight(2)_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
-Platform assembly: Z:\Projetos\_Games\Grid Runner\Builld\BringLight(2)_Data\Managed\Assembly-CSharp.dll (this message is harmless)
-Loading Z:\Projetos\_Games\Grid Runner\Builld\BringLight(2)_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
-Platform assembly: Z:\Projetos\_Games\Grid Runner\Builld\BringLight(2)_Data\Managed\UnityEngine.UI.dll (this message is harmless)
-Loading Z:\Projetos\_Games\Grid Runner\Builld\BringLight(2)_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
-Platform assembly: Z:\Projetos\_Games\Grid Runner\Builld\BringLight(2)_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
-Loading Z:\Projetos\_Games\Grid Runner\Builld\BringLight(2)_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
-Platform assembly: Z:\Projetos\_Games\Grid Runner\Builld\BringLight(2)_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
-Loading Z:\Projetos\_Games\Grid Runner\Builld\BringLight(2)_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
-- Completed reload, in  0.536 seconds
-Platform assembly: Z:\Projetos\_Games\Grid Runner\Builld\BringLight(2)_Data\Managed\System.Core.dll (this message is harmless)
-Platform assembly: Z:\Projetos\_Games\Grid Runner\Builld\BringLight(2)_Data\Managed\System.dll (this message is harmless)
-desktop: 1366x768 60Hz; virtual: 2732x768 at -1366,0
+Platform assembly: D:\Projetos\_Games\Grid_Runner\Grid Runner\Builld\BringLight(2)_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Projetos\_Games\Grid_Runner\Grid Runner\Builld\BringLight(2)_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Projetos\_Games\Grid_Runner\Grid Runner\Builld\BringLight(2)_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading D:\Projetos\_Games\Grid_Runner\Grid Runner\Builld\BringLight(2)_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: D:\Projetos\_Games\Grid_Runner\Grid Runner\Builld\BringLight(2)_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Projetos\_Games\Grid_Runner\Grid Runner\Builld\BringLight(2)_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Projetos\_Games\Grid_Runner\Grid Runner\Builld\BringLight(2)_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Projetos\_Games\Grid_Runner\Grid Runner\Builld\BringLight(2)_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Projetos\_Games\Grid_Runner\Grid Runner\Builld\BringLight(2)_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Projetos\_Games\Grid_Runner\Grid Runner\Builld\BringLight(2)_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\Projetos\_Games\Grid_Runner\Grid Runner\Builld\BringLight(2)_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading D:\Projetos\_Games\Grid_Runner\Grid Runner\Builld\BringLight(2)_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.680 seconds
+Platform assembly: D:\Projetos\_Games\Grid_Runner\Grid Runner\Builld\BringLight(2)_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\Projetos\_Games\Grid_Runner\Grid Runner\Builld\BringLight(2)_Data\Managed\System.dll (this message is harmless)
+desktop: 2560x1080 59Hz; virtual: 3926x1080 at -1366,0
 <RI> Initializing input.
-XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 0.861400 ms
+UnloadTime: 0.797700 ms
 Setting up 1 worker threads for Enlighten.
-  Thread -> id: 3768 -> priority: 1 
-Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 10.757400 ms
-
-Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 303.
-Total: 0.433800 ms (FindLiveObjects: 0.037400 ms CreateObjectMapping: 0.040200 ms MarkObjects: 0.333000 ms  DeleteObjects: 0.021200 ms)
-
-Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 2.310200 ms
-
-Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 345.
-Total: 0.292700 ms (FindLiveObjects: 0.025400 ms CreateObjectMapping: 0.017500 ms MarkObjects: 0.221500 ms  DeleteObjects: 0.026500 ms)
-
+  Thread -> id: 3ea0 -> priority: 1 

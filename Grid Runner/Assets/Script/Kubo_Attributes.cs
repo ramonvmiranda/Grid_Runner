@@ -14,8 +14,8 @@ public class Kubo_Attributes : MonoBehaviour {
 
 	void Start ()
 	{
-		bg = GameObject.Find ("BG").GetComponent<Image> (); 
-		bg.color = new Color (0.5f, 0.5f, 0.5f, 0f);
+		//bg = GameObject.Find ("BG").GetComponent<Image> (); 
+		//bg.color = new Color (0.5f, 0.5f, 0.5f, 0f);
 	}
 
 	// Update is called once per frame
@@ -23,7 +23,7 @@ public class Kubo_Attributes : MonoBehaviour {
 	{
 		kuboCor = new Color (cor[0], cor[1], cor[2], 1f);
 		avanco = (cor [0] + cor [1] + cor [2]) / 3;
-		bg.color = new Color (0.5f, 0.5f, 0.5f, avanco); 
+		//bg.color = new Color (0.5f, 0.5f, 0.5f, avanco); 
 	}
 
 	public void ganhaCor (int i)

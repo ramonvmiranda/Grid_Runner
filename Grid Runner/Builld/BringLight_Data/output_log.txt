@@ -2,29 +2,29 @@ Initialize engine version: 5.4.2f2 (b7e030c65c9b)
 GfxDevice: creating device client; threaded=1
 Direct3D:
     Version:  Direct3D 11.0 [level 11.0]
-    Renderer: Intel(R) HD Graphics 3000 (ID=0x126)
+    Renderer: Intel(R) HD Graphics 620 (ID=0x5916)
     Vendor:   Intel
-    VRAM:     848 MB
+    VRAM:     2111 MB
 Begin MonoManager ReloadAssembly
-Platform assembly: D:\Desenvolvimento\Projetos\Grid Runner\Builld\BringLight_Data\Managed\UnityEngine.dll (this message is harmless)
-Loading D:\Desenvolvimento\Projetos\Grid Runner\Builld\BringLight_Data\Managed\UnityEngine.dll into Unity Child Domain
-Platform assembly: D:\Desenvolvimento\Projetos\Grid Runner\Builld\BringLight_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
-Loading D:\Desenvolvimento\Projetos\Grid Runner\Builld\BringLight_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
-Platform assembly: D:\Desenvolvimento\Projetos\Grid Runner\Builld\BringLight_Data\Managed\Assembly-CSharp.dll (this message is harmless)
-Loading D:\Desenvolvimento\Projetos\Grid Runner\Builld\BringLight_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
-Platform assembly: D:\Desenvolvimento\Projetos\Grid Runner\Builld\BringLight_Data\Managed\UnityEngine.UI.dll (this message is harmless)
-Loading D:\Desenvolvimento\Projetos\Grid Runner\Builld\BringLight_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
-Platform assembly: D:\Desenvolvimento\Projetos\Grid Runner\Builld\BringLight_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
-Loading D:\Desenvolvimento\Projetos\Grid Runner\Builld\BringLight_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
-Platform assembly: D:\Desenvolvimento\Projetos\Grid Runner\Builld\BringLight_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
-Loading D:\Desenvolvimento\Projetos\Grid Runner\Builld\BringLight_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
-- Completed reload, in  0.208 seconds
-Platform assembly: D:\Desenvolvimento\Projetos\Grid Runner\Builld\BringLight_Data\Managed\System.Core.dll (this message is harmless)
-Platform assembly: D:\Desenvolvimento\Projetos\Grid Runner\Builld\BringLight_Data\Managed\System.dll (this message is harmless)
-desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+Platform assembly: D:\Projetos\_Games\Grid_Runner\Grid Runner\Builld\BringLight_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Projetos\_Games\Grid_Runner\Grid Runner\Builld\BringLight_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Projetos\_Games\Grid_Runner\Grid Runner\Builld\BringLight_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading D:\Projetos\_Games\Grid_Runner\Grid Runner\Builld\BringLight_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: D:\Projetos\_Games\Grid_Runner\Grid Runner\Builld\BringLight_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Projetos\_Games\Grid_Runner\Grid Runner\Builld\BringLight_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Projetos\_Games\Grid_Runner\Grid Runner\Builld\BringLight_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Projetos\_Games\Grid_Runner\Grid Runner\Builld\BringLight_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Projetos\_Games\Grid_Runner\Grid Runner\Builld\BringLight_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Projetos\_Games\Grid_Runner\Grid Runner\Builld\BringLight_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\Projetos\_Games\Grid_Runner\Grid Runner\Builld\BringLight_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading D:\Projetos\_Games\Grid_Runner\Grid Runner\Builld\BringLight_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.717 seconds
+Platform assembly: D:\Projetos\_Games\Grid_Runner\Grid Runner\Builld\BringLight_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\Projetos\_Games\Grid_Runner\Grid Runner\Builld\BringLight_Data\Managed\System.dll (this message is harmless)
+desktop: 2560x1080 59Hz; virtual: 3926x1080 at -1366,0
 <RI> Initializing input.
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 1.021400 ms
+UnloadTime: 1.156000 ms
 Setting up 1 worker threads for Enlighten.
-  Thread -> id: 57ec -> priority: 1 
+  Thread -> id: 20f4 -> priority: 1 
